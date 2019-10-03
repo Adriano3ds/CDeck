@@ -1,8 +1,6 @@
 # *CDeck*
 
-<div style="text-align: center">
 ![CDeck](cdeck.png)
-</div>
 
 # Introduction
 
