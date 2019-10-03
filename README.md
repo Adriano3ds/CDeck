@@ -1,9 +1,7 @@
 # *CDeck*
 
-<div style="line-height: 20px; display: block; white-space: pre; font-family: monospace; text-align: center">
-┏━━━┓┏━━━┓ 
-┃A ♠┃┃A ♦┃
-┗━━━┛┗━━━┛
+<div style="text-align: center">
+![CDeck](cdeck.png)
 </div>
 
 # Introduction
