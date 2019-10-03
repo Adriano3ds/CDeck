@@ -51,9 +51,9 @@ typedef enum card_suites{
 
 
 
-If you want to see all cards fronts, please read [CARDS.md](CARDS.md)
+If you want to see all cards fronts, please read [CARDS.txt](CARDS.txt)
 
-There is also card backs, you can see then in [CARDBACKS.md](CARDBACKS.md)
+There is also card backs, you can see then in [CARDBACKS.txt](CARDBACKS.txt)
 
 
 
