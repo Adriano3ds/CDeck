@@ -6,7 +6,7 @@
 ┗━━━┛┗━━━┛
 </div>
 
-Introduction
+# Introduction
 
 *CDeck* is a C library that allows the creation and usage of cards in C. It Allows you to print both sides of the cards.
 
