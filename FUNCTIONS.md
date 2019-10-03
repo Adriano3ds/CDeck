@@ -39,6 +39,7 @@ This function prints a card back. (See [CARDBACKS.txt](CARDBACKS.txt))
 void printCard(Card c);
 ```
 This function prints a card. (See [CARD.txt](CARD.txt))
+If the card value is 0, it will print the back of the card.
 
 
 
@@ -46,6 +47,7 @@ This function prints a card. (See [CARD.txt](CARD.txt))
 void printCardsFromTo(Card deck[], int from, int to);
 ```
 This function prints cards from index *from* to index *to* from the Card list *deck*.
+If the card value is 0, it will print the back of the card.
 
 
 
@@ -53,6 +55,7 @@ This function prints cards from index *from* to index *to* from the Card list *d
 void printCards(Card deck[], int length);
 ```
 This function prints all cards in the Card list *deck*, you need to pass the list length. Be careful, this functions does not check the maximum window width.
+If the card value is 0, it will print the back of the card.
 
 
 
@@ -60,6 +63,7 @@ This function prints all cards in the Card list *deck*, you need to pass the lis
 void printCardsWithSplit(Card deck[], int length, int split);
 ```
 This function prints all cards in the Card list *deck* splitting them by *split* cards each time, you need to pass the list length.
+If the card value is 0, it will print the back of the card.
 
 
 
