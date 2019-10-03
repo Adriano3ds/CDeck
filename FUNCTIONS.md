@@ -31,14 +31,14 @@ This function returns the card suite as a string.  The output can be "♠", "♣
 ```C
 void printCardBack();
 ```
-This function prints a card back. (See [CARDBACKS.md](CARDBACKS.md))
+This function prints a card back. (See [CARDBACKS.txt](CARDBACKS.txt))
 
 
 
 ```C
 void printCard(Card c);
 ```
-This function prints a card. (See [CARD.md](CARD.md))
+This function prints a card. (See [CARD.txt](CARD.txt))
 
 
 
